@@ -25,3 +25,7 @@ npm start
 ```
 
 Voilaaaa !! The app will be launched in the localhost at port 5000.
+
+[Download Documentation][def]
+
+[def]: https://github.com/alphaseneca/Database_Management_System-CT652-project/blob/master/0documentation/DBMS_Documentation_Theatrebookingsystem.pdf
